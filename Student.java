@@ -8,9 +8,6 @@ public class Student {
     System.out.println("My Rollnumber is "+ rollnumber);
     System.out.println("My Job is "+ Job);
     System.out.println("Thanks You All");
-    System.out.println("DEvops Engineer Varma");
-        System.out.println("DEvops Engineer SAi Varma");
-        System.out.println("DEvops Engineer Sai Varma");
-    
+    System.out.println("This is new integration in CI/CD");
     }
 }
